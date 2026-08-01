@@ -100,3 +100,12 @@ Das setzt `disablesleep` zurück und löscht `/etc/sudoers.d/espresso`.
 - **Auto-Aus bei 10 % Akku:** Solange der Modus aktiv ist, prüft Espresso jede
   Minute den Ladestand. Fällt der Akku auf **10 % oder weniger** und der Mac
   hängt **nicht am Netz**, wird der Zuklapp-Modus automatisch deaktiviert.
+
+## Lizenz
+
+[MIT](LICENSE) — benutzen, ändern, weitergeben, alles erlaubt. Der
+Copyright-Hinweis muss mit, und es gibt keine Gewährleistung.
+
+Bis zum 01.08.2026 lag hier keine Lizenz. Ein öffentliches Repository ohne
+Lizenz steht unter vollem Urheberrecht: Man darf es ansehen, aber streng
+genommen weder benutzen noch weitergeben. Das war nicht gemeint.
